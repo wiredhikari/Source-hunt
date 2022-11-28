@@ -21,8 +21,8 @@ we are building a platform like ProductHunt named "SourceHunt" for the open-sour
 - [Abhijay]()
 
 
-# Project Buildooors
+# Project Buildooors 💻
 
 <a href="https://github.com/Abhijay007/Source-hunt/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Abhijay007/Source-hunt" />
+  <img src="https://contrib.rocks/image?repo=Abhijay007/Source-hunt"/>
 </a>
