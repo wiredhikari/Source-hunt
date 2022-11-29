@@ -12,16 +12,12 @@ We are building a platform like ProductHunt named "SourceHunt" for the open-sour
 ### Source Code: [here]()
 ### FIgma Desing: [here](https://www.figma.com/file/C7AGOBZAA4RW4F1KnUKnwr/Source-Hunt?node-id=0%3A1&t=veCvwy5GYCy7zEEl-1)
 ### Date of starting the project : 26 November, 2022
-### Person of Contact :
-Name - Atharva , email - 
-Name - Abhijay, email - abhijay007j@gmail.com
-Name - Anmol, email - sharmaaanmol313@gmail.com
 
 
 ### Team:
 - [Atharva]()
-- [Anmol]() 
-- [Abhijay]()
+- [Anmol](sharmaaanmol313@gmail.com) 
+- [Abhijay](abhijay007j@gmail.com)
 
 
 # Project Buildooors 💻
