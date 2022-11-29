@@ -11,7 +11,8 @@ We are building a platform like ProductHunt named "SourceHunt" for the open-sour
 
 ### Live Demo: [here]()
 ### Source Code: [here](https://github.com/Abhijay007/Source-hunt)
-### FIgma Desing: [here](https://www.figma.com/file/C7AGOBZAA4RW4F1KnUKnwr/Source-Hunt?node-id=0%3A1&t=veCvwy5GYCy7zEEl-1)
+### FIgma Design: [here](https://www.figma.com/file/C7AGOBZAA4RW4F1KnUKnwr/Source-Hunt?node-id=0%3A1&t=veCvwy5GYCy7zEEl-1)
+### Notion Docs: [here](https://www.notion.so/Source-Hunt-490cb8ef4e964d78beb07c3915a895b6)
 ### Date of starting the project : 26 November, 2022
 
 
