@@ -16,14 +16,9 @@ We are building a platform like ProductHunt named "SourceHunt" for the open-sour
 ### Date of starting the project : 26 November, 2022
 
 
-### Team:
+# Project Buildooors 💻
+
 - [Atharva](https://twitter.com/wired_hikari)
 - [Anmol](https://twitter.com/anmol_twt) 
 - [Abhijay](https://twitter.com/CodeInVeins)
 
-
-# Project Buildooors 💻
-
-<a href="https://github.com/Abhijay007/Source-hunt/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Abhijay007/Source-hunt"/>
-</a>
