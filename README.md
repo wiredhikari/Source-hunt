@@ -16,8 +16,8 @@ We are building a platform like ProductHunt named "SourceHunt" for the open-sour
 
 ### Team:
 - [Atharva]()
-- [Anmol](sharmaaanmol313@gmail.com) 
-- [Abhijay](abhijay007j@gmail.com)
+- [Anmol](https://twitter.com/anmol_twt) 
+- [Abhijay](https://twitter.com/CodeInVeins)
 
 
 # Project Buildooors 💻
